@@ -7,6 +7,7 @@ namespace Tuan2AnUyen
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Toi ten la Le Truong Thao Uyen");
         }
     }
 }

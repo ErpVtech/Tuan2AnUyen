@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thaou\\source\\repos\\Tuan2AnUyen\\Tuan2AnUyen\\Tuan2AnUyen.csproj": {}
+    "C:\\Users\\thaou\\OneDrive\\Máy tính\\CNPMNC\\Tuan2AnUyen\\Tuan2AnUyen\\Tuan2AnUyen.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thaou\\source\\repos\\Tuan2AnUyen\\Tuan2AnUyen\\Tuan2AnUyen.csproj": {
+    "C:\\Users\\thaou\\OneDrive\\Máy tính\\CNPMNC\\Tuan2AnUyen\\Tuan2AnUyen\\Tuan2AnUyen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thaou\\source\\repos\\Tuan2AnUyen\\Tuan2AnUyen\\Tuan2AnUyen.csproj",
+        "projectUniqueName": "C:\\Users\\thaou\\OneDrive\\Máy tính\\CNPMNC\\Tuan2AnUyen\\Tuan2AnUyen\\Tuan2AnUyen.csproj",
         "projectName": "Tuan2AnUyen",
-        "projectPath": "C:\\Users\\thaou\\source\\repos\\Tuan2AnUyen\\Tuan2AnUyen\\Tuan2AnUyen.csproj",
+        "projectPath": "C:\\Users\\thaou\\OneDrive\\Máy tính\\CNPMNC\\Tuan2AnUyen\\Tuan2AnUyen\\Tuan2AnUyen.csproj",
         "packagesPath": "C:\\Users\\thaou\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thaou\\source\\repos\\Tuan2AnUyen\\Tuan2AnUyen\\obj\\",
+        "outputPath": "C:\\Users\\thaou\\OneDrive\\Máy tính\\CNPMNC\\Tuan2AnUyen\\Tuan2AnUyen\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thaou\\AppData\\Roaming\\NuGet\\NuGet.Config",
