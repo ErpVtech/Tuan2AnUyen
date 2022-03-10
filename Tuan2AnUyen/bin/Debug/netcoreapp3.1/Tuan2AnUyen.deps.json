@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Tuan2AnUyen/1.0.0": {
+        "runtime": {
+          "Tuan2AnUyen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tuan2AnUyen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\thaou\source\repos\Tuan2AnUyen\Tuan2AnUyen\bin\Debug\netcoreapp3.1\Tuan2AnUyen.exe
+C:\Users\thaou\source\repos\Tuan2AnUyen\Tuan2AnUyen\bin\Debug\netcoreapp3.1\Tuan2AnUyen.deps.json
+C:\Users\thaou\source\repos\Tuan2AnUyen\Tuan2AnUyen\bin\Debug\netcoreapp3.1\Tuan2AnUyen.runtimeconfig.json
+C:\Users\thaou\source\repos\Tuan2AnUyen\Tuan2AnUyen\bin\Debug\netcoreapp3.1\Tuan2AnUyen.runtimeconfig.dev.json
+C:\Users\thaou\source\repos\Tuan2AnUyen\Tuan2AnUyen\bin\Debug\netcoreapp3.1\Tuan2AnUyen.dll
+C:\Users\thaou\source\repos\Tuan2AnUyen\Tuan2AnUyen\bin\Debug\netcoreapp3.1\Tuan2AnUyen.pdb
+C:\Users\thaou\source\repos\Tuan2AnUyen\Tuan2AnUyen\obj\Debug\netcoreapp3.1\Tuan2AnUyen.csprojAssemblyReference.cache
+C:\Users\thaou\source\repos\Tuan2AnUyen\Tuan2AnUyen\obj\Debug\netcoreapp3.1\Tuan2AnUyen.AssemblyInfoInputs.cache
+C:\Users\thaou\source\repos\Tuan2AnUyen\Tuan2AnUyen\obj\Debug\netcoreapp3.1\Tuan2AnUyen.AssemblyInfo.cs
+C:\Users\thaou\source\repos\Tuan2AnUyen\Tuan2AnUyen\obj\Debug\netcoreapp3.1\Tuan2AnUyen.csproj.CoreCompileInputs.cache
+C:\Users\thaou\source\repos\Tuan2AnUyen\Tuan2AnUyen\obj\Debug\netcoreapp3.1\Tuan2AnUyen.dll
+C:\Users\thaou\source\repos\Tuan2AnUyen\Tuan2AnUyen\obj\Debug\netcoreapp3.1\Tuan2AnUyen.pdb
+C:\Users\thaou\source\repos\Tuan2AnUyen\Tuan2AnUyen\obj\Debug\netcoreapp3.1\Tuan2AnUyen.genruntimeconfig.cache
